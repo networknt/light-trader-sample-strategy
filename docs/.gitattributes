@@ -1,0 +1,2 @@
+# Preserve the vendored Mermaid bundle byte-for-byte; its embedded sources contain trailing spaces.
+mermaid.min.js -whitespace
